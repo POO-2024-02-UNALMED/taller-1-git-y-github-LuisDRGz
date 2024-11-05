@@ -1,2 +1,0 @@
-La carpeta archivos solo fue posible de subir despues de que se le agregara un archivo dentrto de ella, en este caso un archivo llamado respuesta de tipo texto, 
-deduzco que se se debe a que una carpeta vacia no se puede subir.
