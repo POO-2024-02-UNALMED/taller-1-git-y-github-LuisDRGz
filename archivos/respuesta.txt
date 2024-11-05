@@ -1,0 +1,1 @@
+no se podía subir la carpeta archivos sin un documento/archivo dentro, con un archivo de texto llamado respuesta si se pudo subir.
